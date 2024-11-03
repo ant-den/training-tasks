@@ -1,6 +1,6 @@
 # Longest Common Prefix Finder
 
-This repository contains a function designed to find the longest common prefix string amongst an array of strings. The longest common prefix is the longest substring that appears at the beginning of each string in the provided array. This function is useful in various applications, such as string matching algorithms and data processing tasks.
+This code contains a function designed to find the longest common prefix string amongst an array of strings. The longest common prefix is the longest substring that appears at the beginning of each string in the provided array. This function is useful in various applications, such as string matching algorithms and data processing tasks.
 
 ## Problem Statement
 
