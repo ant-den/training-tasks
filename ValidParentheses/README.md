@@ -1,6 +1,6 @@
 # Valid Parentheses Checker
 
-This repository contains a function that determines if a given string of parentheses is valid. The function checks for proper matching and order of different types of brackets, including round `()`, square `[]`, and curly `{}` brackets.
+This code contains a function that determines if a given string of parentheses is valid. The function checks for proper matching and order of different types of brackets, including round `()`, square `[]`, and curly `{}` brackets.
 
 ## Problem Statement
 
