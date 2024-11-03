@@ -6,12 +6,12 @@ This repository contains a function designed to find the longest common prefix s
 
 Given an array of strings, the function will return the longest common prefix among the strings. If there is no common prefix, the function will return an empty string.
 
-##Example 1:
+## Example 1:
 
 Input: strs = ["flower","flow","flight"]
 Output: "fl"
 
-##Example 2:
+## Example 2:
 
 Input: strs = ["dog","racecar","car"]
 Output: ""
